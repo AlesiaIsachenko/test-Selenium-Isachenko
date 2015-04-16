@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28441" started-at="2015-04-16T20:53:30Z" finished-at="2015-04-16T20:53:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28441" started-at="2015-04-16T20:53:30Z" finished-at="2015-04-16T20:53:59Z">
+      <class name="alesia.isachenko.Login_Test_1">
+        <test-method status="PASS" signature="init()[pri:0, instance:alesia.isachenko.Login_Test_1@1fbc7afb]" name="init" is-config="true" duration-ms="19715" started-at="2015-04-16T22:53:30Z" finished-at="2015-04-16T22:53:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testUntitled()[pri:0, instance:alesia.isachenko.Login_Test_1@1fbc7afb]" name="testUntitled" duration-ms="8682" started-at="2015-04-16T22:53:50Z" finished-at="2015-04-16T22:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUntitled -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:alesia.isachenko.Login_Test_1@1fbc7afb]" name="tearDown" is-config="true" duration-ms="1143" started-at="2015-04-16T22:53:59Z" finished-at="2015-04-16T22:54:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- alesia.isachenko.Login_Test_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
