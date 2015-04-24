@@ -15,7 +15,7 @@ public class Login_Test_1 extends alesia.isachenko.se.pages.TestBase {
   private StringBuffer verificationErrors = new StringBuffer();
 
   @Test
-  public void testUntitled() throws Exception {
+  public void Login_Test_1() throws Exception {
     driver.get(baseUrl + "/php4dvd/");
     driver.findElement(By.id("username")).clear();
     driver.findElement(By.id("username")).sendKeys("admin");

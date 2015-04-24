@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="alesia.isachenko.Login_Test_1">
+      <class name="alesia.isachenko.Search">
         <methods>
+          <include name="Search"/>
           <include name="init"/>
-          <include name="testUntitled"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- alesia.isachenko.Login_Test_1 -->
+      </class> <!-- alesia.isachenko.Search -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
